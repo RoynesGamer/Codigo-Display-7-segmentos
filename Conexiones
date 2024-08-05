@@ -1,0 +1,14 @@
+Conexiones
+
+Pin Digital 2  -  Pin A del display de 7 segmentos
+Pin Digital 3  -  Pin B del display de 7 segmentos
+Pin Digital 4  -  Pin C del display de 7 segmentos
+Pin Digital 5  -  Pin D del display de 7 segmentos
+Pin Digital 6  -  Pin E del display de 7 segmentos
+Pin Digital 7  -  Pin F del display de 7 segmentos
+Pin Digital 8  -  Pin G del display de 7 segmentos
+GND del arduino -   Comun Display catodo comun
+
+
+
+
